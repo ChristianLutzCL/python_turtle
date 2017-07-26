@@ -25,4 +25,5 @@ def circle():
     my_turtle.end_fill()
 
 #heheeheh
+#jojojo
 square_circ(500)
